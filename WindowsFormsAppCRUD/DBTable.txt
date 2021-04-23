@@ -1,0 +1,15 @@
+﻿CREATE TABLE [dbo].[Department] (
+    [dept_id]   INT          NOT NULL,
+    [dept_name] VARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([dept_id] ASC)
+);
+
+
+
+CREATE TABLE [dbo].[EmpDetails] (
+    [Id]             INT          IDENTITY (1, 1) NOT NULL,
+    [emp_name]       VARCHAR (50) NULL,
+    [emp_department] INT          NULL,
+    [emp_gender]     VARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

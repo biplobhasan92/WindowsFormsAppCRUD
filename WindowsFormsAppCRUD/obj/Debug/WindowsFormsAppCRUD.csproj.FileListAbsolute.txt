@@ -1,0 +1,10 @@
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\bin\Debug\WindowsFormsAppCRUD.exe
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\bin\Debug\WindowsFormsAppCRUD.pdb
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.Form1.resources
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.Properties.Resources.resources
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.GenerateResource.Cache
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.exe
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.pdb
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\source\repos\WindowsFormsAppCRUD\WindowsFormsAppCRUD\obj\Debug\WindowsFormsAppCRUD.EmpDetails.resources
